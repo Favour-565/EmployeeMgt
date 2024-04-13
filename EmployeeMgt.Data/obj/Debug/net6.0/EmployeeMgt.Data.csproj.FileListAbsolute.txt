@@ -1,0 +1,17 @@
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Data.deps.json
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Data.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Data.dll
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Data.pdb
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Model.dll
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\bin\Debug\net6.0\EmployeeMgt.Model.pdb
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.csproj.CopyComplete
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.dll
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\refint\EmployeeMgt.Data.dll
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.pdb
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\EmployeeMgt.Data.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\source\repos\EmployeeMgt.Data\obj\Debug\net6.0\ref\EmployeeMgt.Data.dll
